@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shihabifty" target="blank"><img src="https://img.shields.io/twitter/follow/shihabifty?logo=twitter&style=for-the-badge" alt="shihabifty" /></a> </p>
 
-- 🔭 I’m currently working on **ASP.NET MVC , Web Exploitation , Cryptography**
+- 🔭 I’m currently working on **ASP.NET MVC , Web Exploitation, Blockchain , Cryptography**
 
-- 🌱 I’m currently learning **C#,PHP**
+- 🌱 I’m currently learning **C# ,solidity ,PHP**
 
 - 💬 Ask me about **Cyber security**
 
